@@ -1,0 +1,8 @@
+[forrige](01-preparations.md) &bullet; [oversikt](../README.md) &bullet; [neste](03-source_code.md)
+
+## Ordbok: shell og terminal
+
+Kjært barn har mange navn. Under lister vi opp noen synonymer til «terminal» med litt ulike opphav, og som har litt ulike konnotasjoner. I praksis bruker vi disse ordene litt om hverandre.
+* **Terminal**. Opprinnelig brukt om kombinasjonen av en fysisk skjerm og et tastatur. Disse kunne være et annet sted enn selve datamaskinen. I senere tid har begrepet blitt brukt om programmer som gir et grafisk brukergrensesnitt (et vindu) til et shell. En **konsoll** var en spesiell terminal som var en integrert del av datamaskinen, og som ikke kunne skilles fra den slik man kunne med andre terminaler.
+* **Shell**. Programmet som vanligvis vises i en terminal. Dette er et rent software-konsept. Et shell *tolker* kommandoer og kan starte andre prosesser. Opprinnelig var dette det dataprogrammet som startet først når oppstarten var ferdig og datamaskinen var klar til bruk. Det ble kalt et shell fordi det «omgav» kjernen i operativsystemet som et skall, og ble for brukerne det eneste de trengte å forholde seg til ved bruk av maskinen. Ordet kommer naturligvis fra tiden før vinduer og mus var vanlig. Det finnes mange ulike shell: for eksempel er **bash** og **zsh** i dag vanlige shell for Linux/Mac mens **cmd** og **PowerShell** er vanlige shell i Windows.
+* **CLI** (kommandolinjen). Et CLI (*command line interface*) er et program med et tekstbasert grensesnitt, for eksempel et shell. Men en kommandolinje er ikke nødvendigvis knyttet til å navigere et operativsystem og starte andre programmer. For eksempel kan vi lage et tekstbasert spill; dette spillet vil da ha en kommandolinje selv om vi ikke ville kalt det for et shell.
